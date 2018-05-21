@@ -110,6 +110,9 @@ persist.timed.enable=true
 # System property for cabl
 ro.qualcomm.cabl=0
 
+# Maintainer
+ro.cardinal.maintainer=Renji
+
 #
 # System props for bluetooh
 #
